@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm Jefferson!
 
-<!--
-**jefferson-duarte/jefferson-duarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python/Django developer passionate about building robust and scalable applications. I work with backend development using Django and Django Rest Framework, with experience in SQL, HTML, CSS, and Git.
 
-Here are some ideas to get you started:
+## 🚀 Technologies and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 **Language:** Python
+- 🎯 **Framework:** Django, Django Rest Framework
+- 🗄 **Database:** PostgreSQL, MySQL
+- 🌐 **Frontend:** HTML, CSS, JavaScript (basic)
+- 🔧 **Tools:** Git
+- 📡 **APIs:** RESTful APIs, integration with external services
+
+## 📂 Featured Projects
+
+🔹 [Recipes Project](https://github.com/jefferson-duarte/Project_Recipes)  
+
+🔹 [Django Ecommerce](https://github.com/jefferson-duarte/Django_Ecommerce)  
+
+🔹 [Supermarket Project](https://github.com/jefferson-duarte/Supermarket_Project)  
+
+## 📫 Where to Find Me
+
+📩 **Email:** jeffersonsduarte@live.com  
+🔗 **LinkedIn:** [jefferson-silva-duarte](https://www.linkedin.com/in/jefferson-silva-duarte/)  
+
+💡 Always learning and exploring new technologies! Let's collaborate? 😃
