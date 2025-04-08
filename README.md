@@ -12,6 +12,7 @@
 - 📡 **APIs:** RESTful APIs, integration with external services
 
 ## 📂 Featured Projects
+🔹 [Nutritional Management Project](https://github.com/jefferson-duarte/Nutritional_Management_Project)  
 
 🔹 [Recipes Project](https://github.com/jefferson-duarte/Project_Recipes)  
 
