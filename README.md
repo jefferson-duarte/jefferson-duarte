@@ -20,6 +20,8 @@
 
 🔹 [Supermarket Project](https://github.com/jefferson-duarte/Supermarket_Project)  
 
+🔹 [Medical Appointment Management System](https://github.com/jefferson-duarte/fs-2025-health-app-71205)  
+
 ## 📫 Where to Find Me
 
 📩 **Email:** jeffersonsduarte@live.com  
