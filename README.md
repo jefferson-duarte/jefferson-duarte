@@ -12,6 +12,9 @@
 - 📡 **APIs:** RESTful APIs, integration with external services
 
 ## 📂 Featured Projects
+
+🔹 [Finance Flow](https://github.com/jefferson-duarte/Finance_Flow)
+
 🔹 [Nutritional Management Project](https://github.com/jefferson-duarte/Nutritional_Management_Project)  
 
 🔹 [Recipes Project](https://github.com/jefferson-duarte/Project_Recipes)  
@@ -19,8 +22,6 @@
 🔹 [Django Ecommerce](https://github.com/jefferson-duarte/Django_Ecommerce)  
 
 🔹 [Supermarket Project](https://github.com/jefferson-duarte/Supermarket_Project)  
-
-🔹 [Medical Appointment Management System](https://github.com/jefferson-duarte/fs-2025-health-app-71205)  
 
 ## 📫 Where to Find Me
 
